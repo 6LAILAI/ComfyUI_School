@@ -1,4 +1,4 @@
-提到ComfyUI就要提到他之前的兄弟软件Stable diffusion，生财有术之前开设过AI绘画的航海，航海手册的选修篇有详细介绍Stable diffusion，完整名称叫Stable diffusion Webui，简称为WEBUI或者SD，选项卡式界面的AI绘画软件，是AUTOMATIC1111这位开发者为了大家方便使用Stable diffusion制作的。
+提到ComfyUI就要提到他之前的兄弟软件Stable diffusion，完整名称叫Stable diffusion Webui，简称为WEBUI或者SD，选项卡式界面的AI绘画软件，是AUTOMATIC1111这位开发者为了大家方便使用Stable diffusion制作的。
 
 下载链接：https://github.com/AUTOMATIC1111/stable-diffusion-webui
 安装教程：第五章节-ComfyUI 安装与使用
